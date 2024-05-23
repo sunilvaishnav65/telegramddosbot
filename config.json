@@ -1,6 +1,6 @@
 {
-  "bot_token": "urtoken",
-  "allowed_user_ids": [1234567, 9876543, 5555555],
+  "bot_token": "7160441726:AAEQtXEHw19ZzQAN6K7X0YfGutRAdFTAWN8",
+  "allowed_user_ids": [6767302510,],
   "available_methods": ["HTTP", "HTTPS"],
   "api_endpoints": {
     "HTTP": [
