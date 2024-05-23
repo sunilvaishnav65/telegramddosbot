@@ -1,6 +1,6 @@
 {
   "bot_token": "7160441726:AAEQtXEHw19ZzQAN6K7X0YfGutRAdFTAWN8",
-  "allowed_user_ids": [6767302510,],
+  "allowed_user_ids": [6767302510],
   "available_methods": ["HTTP", "HTTPS"],
   "api_endpoints": {
     "HTTP": [
